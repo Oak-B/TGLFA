@@ -1,10 +1,10 @@
 # TGLFA
 This is the supplementary file and PyTorch implementation for the paper entitled “Two-Stream Graph Convolutional Network-Incorporated Latent Feature Analysis”.
 
-## TGLFA-Supplementary File
+## TGLFA-Supplementary File.pdf
 Additional tables and figures are put into this file and cited by the paper.
 
-## TGLFA-Codes
+## TGLFA-Codes.zip
 This is the PyTorch implementation for the paper entitled "Two-Stream Graph Convolutional Network- Incorporated Latent Feature Analysis".
 
 ### Enviroment Requirement
